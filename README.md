@@ -8,9 +8,8 @@ remove channels which have specific tags from https://twitch.tv/directory/all
 https://chrome.google.com/webstore/detail/akgklnndhikpbicblebpmejojlmikhll/
 
 # Usage
-USAGE
--write tags with comma
--example) 'English,Chinese'
+- write tags with comma
+- example) 'English,Chinese'
 
 # license
 [MIT](https://github.com/jhen0409/react-chrome-extension-boilerplate/blob/master/LICENSE)
