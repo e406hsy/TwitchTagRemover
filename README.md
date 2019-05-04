@@ -9,6 +9,7 @@ https://chrome.google.com/webstore/detail/akgklnndhikpbicblebpmejojlmikhll/
 
 # Usage
 - write tags with comma
+- then press update button
 - example) 'English,Chinese'
 
 # license
