@@ -1,9 +1,9 @@
 
 {
 	"manifest_version": 2,
-	"name": "TwitchLanguage",
-	"description": "Twitch.tv language selector",
-	"version": "1.0",
+	"name": "TwitchTagRemover",
+	"description": "Twitch.tv Tag selector",
+	"version": "1.01",
 	
 	"icons": {
 		"128": "Language128.png"
@@ -26,5 +26,6 @@
 		"activeTab",
 		"storage",
 		"declarativeContent"
-	]
+	],
+	"homepage_url": "https://github.com/e406hsy/TwitchTagRemover"
 }
