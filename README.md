@@ -1,5 +1,5 @@
 # TwitchTagRemover
-twitch tag Remover chrome extension
+Twitch.tv Tag Remover chrome extension
 
 # Feature
 remove channels which have specific tags from https://twitch.tv/directory/all
