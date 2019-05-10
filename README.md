@@ -2,7 +2,7 @@
 Twitch.tv Tag Remover chrome extension
 
 # Feature
-remove channels which have specific tags from https://twitch.tv/directory/all
+remove channels which have specific tags from https://twitch.tv/directory/all, https://www.twitch.tv/directory/game/*
 
 # Usage
 - write tags with comma
